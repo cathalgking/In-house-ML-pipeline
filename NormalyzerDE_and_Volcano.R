@@ -3,7 +3,7 @@
 # 1. Take as input a master matrix and a design marix and Normalize the master matrix by analysing a PDF report.
 # 2. Take the normalized matrix of choice and calculate statistics (log2FC, p-value and PDF report).
 # 3. Make volcano plots from any 2 chosen groups in the normalised dataset.
-# 4. Collect significant genes from top_left and top_right areas of the plot. 
+# 4. Collect significant genes from 'top_left' and 'top_right' areas of the plot. 
 ###############################################################################################################
 
 ### NormalyzerDE ###
